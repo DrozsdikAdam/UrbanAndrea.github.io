@@ -1,0 +1,10 @@
+.colored
+{
+    background-color: rgb(43, 8, 100);
+}
+#title
+{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+}
