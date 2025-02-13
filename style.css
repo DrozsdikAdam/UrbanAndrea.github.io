@@ -17,3 +17,16 @@
 {
     margin: auto;
 }
+#title {
+    border-radius: 15px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 20px;
+    background: linear-gradient(to bottom right, #008cff,#e100ff); /* Gradient colors */
+    background-clip: text; /* Clip the gradient to the text */
+    color: transparent;
+    /* Apply the gradient border */
+    border: 5px solid;
+    border-image: linear-gradient(to bottom right, #008cff,#e100ff);
+    border-image-slice: 1;
+  }
