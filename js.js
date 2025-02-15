@@ -1,13 +1,3 @@
-//var showed = false;
-//var div = document.getElementById("container");
-//function Show()
-//    {
-//        showed = !showed;
-//        console.log(showed);
-//        if(showed===true) div.classList.value = "text-center btn btn-primary px-3 d-block"
-//        else div.classList.value = "text-center btn btn-primary d-sm-none px-3 d-block"
-//    }
-
     var showed = false;
     
     function Show() {
