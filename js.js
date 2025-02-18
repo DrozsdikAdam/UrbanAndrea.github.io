@@ -5,7 +5,7 @@
         console.log(showed);
         if (showed === true) {
             var count = 1;
-            if(count<7)
+            if(count<6)
             setInterval(()=>{
                 document.getElementById("p"+count).classList = "d-sm-block d-block";
                 count++;
@@ -14,7 +14,7 @@
             document.getElementById("button").innerHTML = "Rövidebben";
         } 
         else {
-            var count = 6;
+            var count = 5;
             if(count>0)
             setInterval(()=>{
                 document.getElementById("p"+count).classList = "d-sm-block d-none";
@@ -25,4 +25,3 @@
         }
     }
 
-    //abony cegléd martfű kecskemét nagykőrős szolnok törökszentmiklós
