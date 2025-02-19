@@ -1,6 +1,9 @@
+body {
+    font-family: Verdana, sans-serif;
+  }
 .colored
 {
-    background-color: rgb(43, 8, 100);
+    background-color: rgba(42, 23, 128, 0.93);
 }
 #title
 {
@@ -36,4 +39,9 @@
 #picture
 {
     max-height: 120px;
+}
+.contact
+{
+    text-decoration: none;
+    letter-spacing: 1px;
 }
