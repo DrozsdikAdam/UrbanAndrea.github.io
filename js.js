@@ -5,7 +5,7 @@
         console.log(showed);
         if (showed === true) {
             var count = 1;
-            if(count<6)
+            if(count<7)
             setInterval(()=>{
                 document.getElementById("p"+count).classList = "d-sm-block d-block";
                 count++;
@@ -14,7 +14,7 @@
             document.getElementById("button").innerHTML = "Rövidebben";
         } 
         else {
-            var count = 5;
+            var count = 6;
             if(count>0)
             setInterval(()=>{
                 document.getElementById("p"+count).classList = "d-sm-block d-none";
