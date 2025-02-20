@@ -45,3 +45,7 @@ body {
     text-decoration: none;
     letter-spacing: 1px;
 }
+.class-link:hover
+{
+ color: white;
+}
