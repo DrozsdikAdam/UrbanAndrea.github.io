@@ -49,3 +49,12 @@ body {
 {
  color: white;
 }
+#img{
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px black;
+}
+#headerLogo{
+        font-family: "Righteous", cursive;
+        font-size: 26px;
+        width: 200px;
+}
