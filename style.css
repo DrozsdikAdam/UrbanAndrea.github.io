@@ -40,6 +40,8 @@ body {
 #picture
 {
     max-height: 120px;
+    font-family: "Righteous", cursive;
+    font-size: 26px;
 }
 .contact
 {
@@ -57,5 +59,4 @@ body {
 #headerLogo{
         font-family: "Righteous", cursive;
         font-size: 26px;
-        width: 200px;
 }
