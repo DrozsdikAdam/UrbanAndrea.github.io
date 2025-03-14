@@ -1,1 +1,1 @@
-www.társasház-közösképviselet-szolnok.hu
+www.társasház-közösképviselet-szolnok.hu CNAME https://github.com/DrozsdikAdam/UrbanAndrea.github.io
